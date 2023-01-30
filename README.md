@@ -1,1 +1,1 @@
-# SchoolSystem
+# SchoolSystem - Is a school management system designed to help school to manage their activities in a day to day base
